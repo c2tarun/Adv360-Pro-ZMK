@@ -71,9 +71,9 @@
         symbols {
             bindings = <
 &trans  &trans           &trans         &trans            &trans             &trans       &trans                                      &trans  &trans     &trans                &trans                 &trans         &trans             &trans
-&trans  &kp GRAVE        &kp LESS_THAN  &kp GREATER_THAN  &kp MINUS          &kp PIPE     &trans                                      &trans  &kp CARET  &kp LEFT_BRACE        &kp RIGHT_BRACE        &kp DOLLAR     &kp UNDER          &trans
-&trans  &kp EXCLAMATION  &kp ASTERISK   &kp SLASH         &kp EQUAL          &kp AMPS     &trans  &trans  &trans      &trans  &trans  &trans  &kp HASH   &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp SEMICOLON  &kp DOUBLE_QUOTES  &trans
-&trans  &kp TILDE        &kp PLUS       &kp LEFT_BRACKET  &kp RIGHT_BRACKET  &kp PERCENT                  &trans      &trans                  &kp AT     &kp COLON             &kp COMMA              &kp PERIOD     &kp SINGLE_QUOTE   &trans
+&trans  &kp GRAVE        &kp LESS_THAN  &kp GREATER_THAN  &kp MINUS          &kp PIPE     &trans                                      &trans  &kp CARET  &kp LEFT_BRACE        &kp RIGHT_BRACE        &kp DOLLAR     &kp UNDER          &kp C_VOLUME_UP
+&trans  &kp EXCLAMATION  &kp ASTERISK   &kp SLASH         &kp EQUAL          &kp AMPS     &trans  &trans  &trans      &trans  &trans  &trans  &kp HASH   &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp SEMICOLON  &kp DOUBLE_QUOTES  &kp C_VOLUME_DOWN
+&trans  &kp TILDE        &kp PLUS       &kp LEFT_BRACKET  &kp RIGHT_BRACKET  &kp PERCENT                  &trans      &trans                  &kp AT     &kp COLON             &kp COMMA              &kp PERIOD     &kp SINGLE_QUOTE   &kp K_MUTE
 &trans  &trans           &trans         &kp LC(LA(LEFT))  &kp LC(LA(RIGHT))               &trans  &trans  &trans      &trans  &trans  &trans             &trans                &trans                 &trans         &trans             &trans
             >;
         };
