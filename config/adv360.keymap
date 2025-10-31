@@ -24,6 +24,7 @@
             compatible = "zmk,behavior-hold-tap";
             label = "LTB";
             #binding-cells = <2>;
+            quick_tap_ms = <175>;
             tapping-term-ms = <200>;
             flavor = "balanced";
             bindings = <&mo>, <&kp>;
